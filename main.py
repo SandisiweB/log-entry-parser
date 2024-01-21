@@ -2,7 +2,6 @@
 1 : Reading the file
 2 : extract ip address and error and success logs
 3 : save the output in csv/excel file
-4: Send email
 """
 
 import re
